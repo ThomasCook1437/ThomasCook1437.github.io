@@ -4,7 +4,7 @@ Statistics PhD Student at UMass Amherst
 
 ### About Me
 
-![Image](src)
+![Image](headshot.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
